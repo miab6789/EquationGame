@@ -1,0 +1,25 @@
+C:\Users\EvaCristi\Desktop\Equation Game\bin\Debug\Equation Game.exe.config
+C:\Users\EvaCristi\Desktop\Equation Game\bin\Debug\Equation Game.exe
+C:\Users\EvaCristi\Desktop\Equation Game\bin\Debug\Equation Game.pdb
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation Game.csprojResolveAssemblyReference.cache
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation_Game.Form1.resources
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation_Game.Properties.Resources.resources
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation Game.csproj.GenerateResource.cache
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation Game.csproj.CoreCompileInputs.cache
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation Game.exe
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation Game.pdb
+C:\Users\EvaCristi\Desktop\Equation Game\obj\Debug\Equation_Game.Form2.resources
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\bin\Debug\Equation Game.exe.config
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\bin\Debug\Equation Game.exe
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\bin\Debug\Equation Game.pdb
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation Game.csprojResolveAssemblyReference.cache
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation_Game.Form1.resources
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation_Game.Form2.resources
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation_Game.Properties.Resources.resources
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation Game.csproj.GenerateResource.cache
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation Game.csproj.CoreCompileInputs.cache
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation Game.exe
+C:\Users\EvaCristi\Desktop\Equation Game (Complete) - Copy\obj\Debug\Equation Game.pdb
+C:\Users\Amelia\Downloads\Equation Game (Complete) - Copy\Equation Game (Complete) - Copy\obj\Debug\Equation Game.csprojAssemblyReference.cache
+C:\Users\Amelia\Downloads\Equation Game (Complete) - Copy\Equation Game (Complete) - Copy\obj\Debug\Equation Game.exe
+C:\Users\Amelia\Downloads\Equation Game (Complete) - Copy\Equation Game (Complete) - Copy\obj\Debug\Equation Game.pdb
